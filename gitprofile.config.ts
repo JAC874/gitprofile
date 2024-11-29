@@ -85,7 +85,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://file.notion.so/f/f/596e206e-5d62-42cd-9aa2-bad31376e5ad/587f9738-d219-4132-a218-635a03f6a15f/Cunningham_Resume_(Tech_2024).pdf?table=block&id=14dd1b56-727f-8035-98a8-c472ecfff397&spaceId=596e206e-5d62-42cd-9aa2-bad31376e5ad&expirationTimestamp=1733004000000&signature=mPTss9bdLgSjGKcA5spfnXImOl2tJ9A47-ivoa3rfVg&downloadName=Cunningham+Resume+%28Tech+2024%29.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     // 'PHP',
