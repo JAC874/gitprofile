@@ -42,7 +42,7 @@ const CONFIG = {
           description:
             'The News Explorer is a modern web application designed for news enthusiasts who want to explore trending topics, save relevant articles, and revisit them at their leisure. Users can: Search for news articles by entering a topic, view a curated list of articles from the past week, save articles for later reading, and explore all their saved articles on a dedicated page. This project focuses on responsive design, clean UI, and efficient handling of dynamic data.',
           imageUrl:
-            'https://previews.dropbox.com/p/thumb/ACc5K9dV4enFo_IhZpWT5bHRsn3NaIkJHnkhhTPrySy8Nruba5dkV_OG3dMFvHTFdlUkqyP_nzm3P1l_Q6Vyz7HzCODy1Ad6V82UxAUp2xaaAcPkZe3nV2OhoFGmzWOmr4O61zTNnoFKJLjF8R6kSsP7ib35N_R6cpVWybe06TBrUSaWu9KiJj-LpMozZ4NaF4-8Zn2t6HXKY1-THkKVrtGL0mVRQ1wlCwOvxgwpH21rbDdpkOjnjzaiNAUxfYGQCBxaaeVLSucKYEqdSh3hLNZ7kdH7YbQsCkQ2Vz6nfnkk9NIX6cmJ6vMq-enfiHr5Nr_aPMCsNQZhYXcALENSndsD/p.png?is_prewarmed=true',
+            'https://www.dropbox.com/preview/Profile%20assets/NewsAppImage.png',
           link: 'https://jac874.github.io/news-explorer-frontend/',
         },
         {
@@ -50,8 +50,16 @@ const CONFIG = {
           description:
             'This project implements modern back-end concepts to create a robust server for HTTP requests and routing. It includes secure user authentication and authorization for protected routes and session management. Comprehensive error handling is achieved with custom error classes and global handlers for synchronous and asynchronous operations. Middleware enhances code organization, while environment variables and configuration files ensure scalability and security across environments.',
           imageUrl:
-            'https://previews.dropbox.com/p/thumb/ACff5sKE8Wg6j_rtPxr-lVRAAVmMMa2eMZyJDTT-xykIOmezdUvD7ULUd7glmBc-Lzya_2qvc2TsxiP9nj75oCjDDacdzMUaSb08wVmR6YTGzYVb-6XqCXdsATZj024LrNZU1fxmUzegDQAjaAX3NCxzQBaqUEoLRJFjD5prewEmVApMUkn0TfUI83CBPNpm-zQdV2XO7stjCcZf7FwS7Ej1a_Gm1vSAQSfy9DRYU6fTa_rLg65WHpqgKqhChOndtTRiSf_Vk5ledePSDRM19nMmw0Xl1U4D2X8TKMnKKow8FoxSahVlR1xHlt_823-x0g-t_9NMwW03pi3F64gRzzgY/p.png?is_prewarmed=true',
+            'https://www.dropbox.com/preview/Profile%20assets/WTWR.png',
           link: 'https://www.wtwr.pixelfucker.com/',
+        },
+         {
+          title: 'Coffee Landing Page',
+          description:
+            'A responsive front-end web project focused on clean, maintainable code and modern web design principles.',
+          imageUrl:
+            'https://www.dropbox.com/preview/Profile%20assets/twin%20peaks%20library.png',
+          link: 'https://jac874.github.io/se_project_coffeeshop/',
         },
       ],
     },
@@ -85,7 +93,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://file.notion.so/f/f/596e206e-5d62-42cd-9aa2-bad31376e5ad/baa8397e-bcbf-4f8c-a5d9-f047ba576071/Cunningham_Resume_(Tech_2025).pages.pdf?table=block&id=180d1b56-727f-80d3-9b9e-fafa4e4b5d2e&spaceId=596e206e-5d62-42cd-9aa2-bad31376e5ad&expirationTimestamp=1737338400000&signature=r8LFzvQXaDEdyY3el8AQDHxx94aQTwk1xdsbleHjO50&downloadName=Cunningham+Resume+%28Tech+2025%29.pages.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/jlmugx7scnn9soc5orjnc/Cunningham-Resume-Tech-2025-.pages.pdf?rlkey=ekyjwjal4v2eck7a6qpwhguy8&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     // 'PHP',
