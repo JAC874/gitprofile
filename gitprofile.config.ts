@@ -93,7 +93,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.dropbox.com/scl/fi/jlmugx7scnn9soc5orjnc/Cunningham-Resume-Tech-2025-.pages.pdf?rlkey=ekyjwjal4v2eck7a6qpwhguy8&dl=0', // Empty fileUrl will hide the `Download Resume` button.
+      'https://file.notion.so/f/f/596e206e-5d62-42cd-9aa2-bad31376e5ad/baa8397e-bcbf-4f8c-a5d9-f047ba576071/Cunningham_Resume_(Tech_2025).pages.pdf?table=block&id=180d1b56-727f-80d3-9b9e-fafa4e4b5d2e&spaceId=596e206e-5d62-42cd-9aa2-bad31376e5ad&expirationTimestamp=1737338400000&signature=r8LFzvQXaDEdyY3el8AQDHxx94aQTwk1xdsbleHjO50&downloadName=Cunningham+Resume+%28Tech+2025%29.pages.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     // 'PHP',
