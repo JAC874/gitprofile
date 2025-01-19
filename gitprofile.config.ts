@@ -66,7 +66,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Jordon Cunningham',
-    description: '',
+    description: 'Music Director, Pianist, and Software Engineer ',
     imageURL: '',
   },
   social: {
